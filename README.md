@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EhyMaik97
+- 👋 Hi, I’m Michelangelo Sparapano a.k.a. EhyMaik97
 - 👀 I am interested in learning about new technologies that I can apply to my work
 - 🌱 I’m currently learning Python, Java, Data Structures and Algorithms
 - 📫 Contact me: [https://www.linkedin.com/in/michelangelo-sparapano](https://www.linkedin.com/in/michelangelo-sparapano-607173205/)
