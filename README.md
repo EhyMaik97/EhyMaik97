@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michelangelo Sparapano a.k.a. EhyMaik97
+- 👋 Hi, I’m Michelangelo
 - 👀 I am interested in learning about new technologies that I can apply to my work
 
 <!---
